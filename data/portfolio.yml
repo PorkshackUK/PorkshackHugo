@@ -1,0 +1,28 @@
+enable : true
+heading : Our
+headingSpan : Dishes
+filterList :
+  - filterType : pork
+    filterTitle : Pork
+
+  - filterType : vegan
+    filterTitle : Vegan
+
+portfolioItem :
+  - types : pork
+    image : images/portfolio/adobo1.jpg
+    icon : tf-ion-android-search
+    title : Adobo Pork
+    description : Rich, Filipino Classic. Consists of overnight slow roasted pork, garlic, soy sauce, cane vinegar and gluten free.
+
+  - types : pork
+    image : images/portfolio/Rendang.jpg
+    icon : tf-ion-android-search
+    title : Rendang Pulled Pork
+    description : Indonesian Special. Consists of hoisin, garlic, ginger, coconut, lemongrasas, garam masala and gluten free.
+
+  - types : vegan
+    image : images/portfolio/Jackfruit1.jpg
+    icon : tf-ion-android-search
+    title : Jackfruit Paksiw (Pak-See-Ew)
+    description : Alternative Filipino Dish. Pulled jackfruit, chickpeas, garlic, cane vinegar, ginger, soy sauce, five spice and sriracha.
