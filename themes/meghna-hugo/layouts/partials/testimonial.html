@@ -4,6 +4,9 @@
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
+              <div class="title text-center wow fadeInDown" data-wow-duration="500ms">
+                  <h2>{{ with .Site.Data.testimonial.heading }} {{ . }} {{ end }}<span class="color"> {{ with .Site.Data.testimonial.headingSpan }} {{ . }} {{ end }}</span></h2>
+                  <div class="border-meghna" style="padding-bottom:5%;"></div>
                 {{"<!-- testimonial wrapper -->" | safeHTML}}
                 <div id="testimonials" class="wow fadeInUp" data-wow-duration="500ms" data-wow-delay="100ms">
                     {{ range .Site.Data.testimonial.testimonialItem }}

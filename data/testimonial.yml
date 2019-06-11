@@ -1,4 +1,6 @@
 enable : true
+heading : Our
+headingSpan : Reviews
 bgImage : images/backgrounds/phillippines2.jpg
 testimonialItem :
   - name : Miriam Garcia
