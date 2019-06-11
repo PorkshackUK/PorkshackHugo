@@ -25,8 +25,8 @@ summaryLength = 10
 
 
     [[menu.nav]]
-    name = "Pricing"
-    URL = "pricing"
+    name = "Menu"
+    URL = "menu"
     weight = 3
 
     [[menu.nav]]

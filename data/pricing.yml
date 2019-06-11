@@ -1,6 +1,6 @@
-enable : True
+enable : false
 heading : Our Event
-headingSpan : Pricing
+headingSpan : Menu
 description: "The Pork Shack can offer Filipino Food for any occasion such as weddings, birthdays or even just fancy throwing a party for the hell of it, we can cater to your requirements. You can choose from our menu or if there is anything specific you require we will aim to work to your needs, don’t forget we offer vegan options, gluten free and dairy free."
 description2: "Please contact us regarding your current "
 pricingTable :
