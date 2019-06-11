@@ -28,13 +28,14 @@ fields:
   fields:
   - type: text
     name: types
-    label: types
+    label: Type of Food
   - type: file
     name: image
     label: image
   - type: text
     name: icon
     label: icon
+    hidden: true
   - type: text
     name: title
     label: title
