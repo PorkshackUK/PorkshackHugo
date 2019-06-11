@@ -1,17 +1,7 @@
 enable : true
 bgImage : images/backgrounds/phillippines2.jpg
 testimonialItem :
-  - name : Jonathon Andrew
-    image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-
-  - name : Jonathon Andrew
-    image : images/team/client-2.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
-
-  - name : Jonathon Andrew
-    image : images/team/client-1.jpg
-    date : Dec 26, 2018
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Praesentium minima ex, quia error, deserunt voluptatibus repellendus? Incidunt eligendi aliquam repellat molestias, vel sed optio rem odit quis ratione non consequuntur!
+  - name : Miriam Garcia
+    image : images/Testimonials/MiriamGaria.jpg
+    date : January 26, 2019
+    content : Really great pair, both are very professional and hard working. We really loved their Adobo Pork and it was the perfect treat for my husband's 30th birthday!

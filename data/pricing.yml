@@ -1,11 +1,11 @@
-enable : true
+enable : True
 heading : Our Event
 headingSpan : Pricing
 description: "The Pork Shack can offer Filipino Food for any occasion such as weddings, birthdays or even just fancy throwing a party for the hell of it, we can cater to your requirements. You can choose from our menu or if there is anything specific you require we will aim to work to your needs, don’t forget we offer vegan options, gluten free and dairy free."
 description2: "Please contact us regarding your current "
 pricingTable :
   - title : Standard Menu
-    price : "Price? per person"
+    price : ""
     time : "1-30 People"
     btnURL : /#contact-us
     btnText : Contact Us
@@ -18,7 +18,7 @@ pricingTable :
       - planDetails : Salad consists of our home-made pickle stew
 
   - title : Premium Menu
-    price : "Price? per person"
+    price : ""
     time : "30-80 People"
     btnURL : "/#contact-us"
     btnText : Contact Us
@@ -31,7 +31,7 @@ pricingTable :
       - planDetails : Salad consists of our home-made pickle stew
 
   - title : Corporate Menu
-    price : "Price? per person"
+    price : ""
     time : "80-100 People"
     btnURL : /#contact-us
     btnText : Contact Us

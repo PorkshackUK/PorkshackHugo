@@ -15,19 +15,19 @@ summaryLength = 10
     [[menu.nav]]
     name = "About Us"
     URL = "about"
-    weight = 2
+    weight = 4
 
 
     [[menu.nav]]
     name = "Dishes"
     URL = "dishes"
-    weight = 3
+    weight = 2
 
 
     [[menu.nav]]
     name = "Pricing"
     URL = "pricing"
-    weight = 6
+    weight = 3
 
     [[menu.nav]]
     name = "Contact"
