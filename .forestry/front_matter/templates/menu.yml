@@ -13,7 +13,7 @@ fields:
   label: headingSpan
 - type: field_group_list
   name: filterList
-  label: filterList
+  label: Type of Food
   fields:
   - type: text
     name: filterType
@@ -21,9 +21,10 @@ fields:
   - type: text
     name: filterTitle
     label: filterTitle
+  description: eg. Meat, Vegan etc.
 - type: field_group_list
   name: portfolioItem
-  label: portfolioItem
+  label: Menu Item
   fields:
   - type: text
     name: types
@@ -40,3 +41,4 @@ fields:
   - type: textarea
     name: description
     label: description
+  description: Name of Dish
