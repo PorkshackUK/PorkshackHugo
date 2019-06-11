@@ -1,116 +1,76 @@
+DefaultContentLanguage = "en"
 baseURL = ""
 languageCode = "en-gb"
-DefaultContentLanguage = "en"
-title = "The Pork Shack"
-theme = "meghna-hugo"
 summaryLength = 10
-
-[taxonomies]
-  author = "author"
-  category = "categories"
-  tag = "tags"
-
-# Menu
-[menu]
-    [[menu.nav]]
-    name = "About Us"
-    URL = "about"
-    weight = 4
-
-
-    [[menu.nav]]
-    name = "Dishes"
-    URL = "dishes"
-    weight = 2
-
-
-    [[menu.nav]]
-    name = "Menu"
-    URL = "menu"
-    weight = 3
-
-    [[menu.nav]]
-    name = "Contact"
-    URL = "contact-us"
-    weight = 8
-
-# Site params
+theme = "meghna-hugo"
+title = "The Pork Shack"
+[[menu.nav]]
+URL = "contact-us"
+name = "Contact"
+weight = 3
+[[menu.nav]]
+URL = "dishes"
+name = "Dishes"
+weight = 1
+[[menu.nav]]
+URL = "about"
+name = "About Us"
+weight = 2
 [params]
-home= "Home"
-logo = "images/siteicon.png"
-gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-# Meta data
-description = "Filipino Street Food & Catering"
 author = "Ant Villa Dean"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
 custom_css = ["css/custom.css"]
-
-    # Banner Section
-    [params.banner]
-    enable = true
-    bgImage = "images/slider/phillipines.jpg"
-    image = "images/logoText.png"
-    heading = ""
-    content= "Bringing you a taste of the phillipines with our delicious adobo pork dishes! Now proudly offering catering services for your next private event!"
-    btn = true
-    btnText="Find Out More"
-    btnURL="#pricing"
-
-    # call to action
-    [params.cta]
-    enable = true
-    title = "Street Food Catering"
-    content = "When you book us all you need to do - tell us where we’re pitching and we do the rest!"
-    btnURL = "#"
-    btnText = " Check out what we offer!"
-
-    # counter
-    [params.counter]
-    enable = true
-    bgImage = "images/backgrounds/wood1.jpg"
-        [[params.counter.counterItem]]
-        title = "Environmentally Friendly"
-        icon = "tf-ion-refresh"
-        count = "100%"
-
-        [[params.counter.counterItem]]
-        title = "and Vegan-friendly"
-        icon = "tf-ion-heart"
-        count = "Healthy"
-
-        [[params.counter.counterItem]]
-        title = "and Different"
-        icon = "tf-ion-thumbsup"
-        count = "Tasty"
-
-        [[params.counter.counterItem]]
-        title = "Biodegrable Cups & Cultery"
-        icon = "tf-ion-coffee"
-        count = "100%"
-
-    # footer
-    [params.footer]
-        copyright = "The Pork Shack"
-        copyrightURL = "http://www.themefisher.com"
-
-        # social Icons
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-facebook"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-twitter"
-        url = "#"
-
-        [[params.footer.socialIcon]]
-        icon = "tf-ion-social-instagram"
-        url = "#"
-
-#        [[params.footer.socialIcon]]
-#        icon = "tf-ion-social-youtube"
-#        url = "#"
-
-#        [[params.footer.socialIcon]]
-#        icon = "tf-ion-social-pinterest-outline"
-#        url = "#"
+description = "Filipino Street Food & Catering"
+gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
+googleAnalitycsID = "Your ID"
+home = "Home"
+logo = "images/siteicon.png"
+[params.banner]
+bgImage = "images/slider/phillipines.jpg"
+btn = true
+btnText = "Find Out More"
+btnURL = "#pricing"
+content = "Bringing you a taste of the phillipines with our delicious adobo pork dishes! Now proudly offering catering services for your next private event!"
+enable = true
+heading = ""
+image = "images/logoText.png"
+[params.counter]
+bgImage = "images/backgrounds/wood1.jpg"
+enable = true
+[[params.counter.counterItem]]
+count = "100%"
+icon = "tf-ion-refresh"
+title = "Environmentally Friendly"
+[[params.counter.counterItem]]
+count = "Healthy"
+icon = "tf-ion-heart"
+title = "and Vegan-friendly"
+[[params.counter.counterItem]]
+count = "Tasty"
+icon = "tf-ion-thumbsup"
+title = "and Different"
+[[params.counter.counterItem]]
+count = "100%"
+icon = "tf-ion-coffee"
+title = "Biodegrable Cups & Cultery"
+[params.cta]
+btnText = " Check out what we offer!"
+btnURL = "#"
+content = "When you book us all you need to do - tell us where we’re pitching and we do the rest!"
+enable = true
+title = "Street Food Catering"
+[params.footer]
+copyright = "The Pork Shack"
+copyrightURL = "http://www.themefisher.com"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-facebook"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-twitter"
+url = "#"
+[[params.footer.socialIcon]]
+icon = "tf-ion-social-instagram"
+url = "#"
+[taxonomies]
+author = "author"
+category = "categories"
+tag = "tags"
