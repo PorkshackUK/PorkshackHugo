@@ -28,7 +28,7 @@ logo = "images/siteicon.png"
 bgImage = "images/slider/phillipines.jpg"
 btn = true
 btnText = "Find Out More"
-btnURL = "#pricing"
+btnURL = "#contact"
 content = "Bringing you a taste of the phillipines with our delicious adobo pork dishes! Now proudly offering catering services for your next private event!"
 enable = true
 heading = ""
@@ -54,7 +54,7 @@ icon = "tf-ion-coffee"
 title = "Biodegrable Cups & Cultery"
 [params.cta]
 btnText = " Check out what we offer!"
-btnURL = "#"
+btnURL = "#contact"
 content = "When you book us all you need to do - tell us where we’re pitching and we do the rest!"
 enable = true
 title = "Street Food Catering"
