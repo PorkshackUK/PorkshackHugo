@@ -1,0 +1,26 @@
+---
+label: About Section
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
+- type: field_group_list
+  name: aboutItem
+  label: aboutItem
+  fields:
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
