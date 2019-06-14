@@ -1,0 +1,38 @@
+---
+label: Contact Details
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
+- type: text
+  name: title
+  label: title
+- type: text
+  name: content
+  label: content
+- type: boolean
+  name: enable_maps
+  label: enable_maps
+- type: number
+  name: mapLatitude
+  label: mapLatitude
+- type: number
+  name: mapLongitude
+  label: mapLongitude
+- type: field_group_list
+  name: contactDetails
+  label: contactDetails
+  fields:
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: info
+    label: info
