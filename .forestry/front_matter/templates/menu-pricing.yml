@@ -1,0 +1,45 @@
+---
+label: Menu/Pricing
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
+- type: textarea
+  name: description
+  label: description
+- type: text
+  name: description2
+  label: description2
+- type: field_group_list
+  name: pricingTable
+  label: pricingTable
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: time
+    label: time
+  - type: text
+    name: btnURL
+    label: btnURL
+  - type: text
+    name: btnText
+    label: btnText
+  - type: field_group_list
+    name: plan
+    label: plan
+    fields:
+    - type: text
+      name: planDetails
+      label: planDetails
