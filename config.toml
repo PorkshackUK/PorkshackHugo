@@ -21,7 +21,7 @@ author = "Ant Villa Dean"
 custom_css = ["css/custom.css"]
 description = "Filipino Street Food & Catering"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-googleAnalitycsID = "Your ID"
+googleAnalitycsID = "UA-132764638-1"
 home = "Home"
 logo = "images/siteicon.png"
 [params.banner]
