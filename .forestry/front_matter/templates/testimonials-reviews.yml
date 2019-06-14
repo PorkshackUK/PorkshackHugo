@@ -7,26 +7,26 @@ fields:
   label: enable
 - type: text
   name: heading
-  label: heading
+  label: Heading (1st Half)
 - type: text
   name: headingSpan
-  label: headingSpan
+  label: Heading (2nd Half)
 - type: file
   name: bgImage
-  label: bgImage
+  label: Background Image
 - type: field_group_list
   name: testimonialItem
-  label: testimonialItem
   fields:
   - type: text
     name: name
-    label: name
+    label: Reviewer
   - type: file
     name: image
-    label: image
+    label: Photograph
   - type: text
     name: date
-    label: date
+    label: Date of Review
   - type: textarea
     name: content
-    label: content
+    label: Review Copy
+  label: Testimonials & Reviews
