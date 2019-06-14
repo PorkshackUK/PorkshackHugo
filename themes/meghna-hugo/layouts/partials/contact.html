@@ -29,30 +29,24 @@
 
             {{"<!-- Contact Form -->" | safeHTML}}
             <div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-                <form id="contact-form" class="form-meghna" method="post" action="https://getform.io/f/499f8968-3957-463b-bc43-71ffec60d6dc" role="form">
+                <form class="form-meghna" method="post" action="https://getform.io/f/499f8968-3957-463b-bc43-71ffec60d6dc">
 
                     <input name="e-mail" type="text" id="e-mail" autocomplete="off">
                     <div class="form-group">
-                        <input type="text" placeholder="Your Name" class="form-control" name="name" id="name">
+                        <input type="text" placeholder="Your Name" class="form-control" name="name">
                     </div>
                     <div class="form-group">
-                        <input type="email" placeholder="Your Email" class="form-control" name="email" id="email">
+                        <input type="email" placeholder="Your Email" class="form-control" name="email">
                     </div>
                     <div class="form-group">
-                        <input type="text" placeholder="Subject" class="form-control" name="subject" id="subject">
+                        <input type="text" placeholder="Subject" class="form-control" name="subject">
                     </div>
                     <div class="form-group">
                         <textarea rows="6" placeholder="Message" class="form-control" name="message"
                             id="message"></textarea>
                     </div>
-                    <div id="mail-success" class="success">
-                        Thank you. The Postman is on his way :)
-                    </div>
-                    <div id="mail-fail" class="error">
-                        Sorry, don't know what happened there. Try again later :(
-                    </div>
-                    <div id="cf-submit">
-                        <input type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">
+                    <div>
+                        <button type="submit" class="btn btn-transparent" value="Submit">Send</button>
                     </div>
                 </form>
             </div>
