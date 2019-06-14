@@ -1,3 +1,4 @@
-enable : true
-heading : Our
-headingSpan : Instagram
+---
+enable: true
+heading: Our
+headingSpan: Instagram Test
