@@ -63,13 +63,13 @@ copyright = "The Pork Shack"
 copyrightURL = ""
 [[params.footer.socialIcon]]
 icon = "tf-ion-social-facebook"
-url = "#"
+url = "https://www.facebook.com/theporkshackUK/"
 [[params.footer.socialIcon]]
 icon = "tf-ion-social-twitter"
-url = "#"
+url = "https://twitter.com/ShackPork"
 [[params.footer.socialIcon]]
 icon = "tf-ion-social-instagram"
-url = "#"
+url = "https://www.instagram.com/theporkshack/"
 [taxonomies]
 author = "author"
 category = "categories"
