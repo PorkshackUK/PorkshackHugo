@@ -43,3 +43,5 @@ fields:
     - type: text
       name: planDetails
       label: planDetails
+pages:
+- data/pricing.yml
