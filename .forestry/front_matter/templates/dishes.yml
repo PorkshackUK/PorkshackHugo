@@ -30,6 +30,9 @@ fields:
   name: portfolioItem
   label: portfolioItem
   fields:
+  - type: text
+    name: title
+    label: Name of Dish
   - name: types
     type: select
     default: []
@@ -56,9 +59,6 @@ fields:
     hidden: false
     default: tf-ion-android-search
     description: Icon in centre - BEST NOT TO CHANGE
-  - type: text
-    name: title
-    label: Name of Dish
   - type: textarea
     name: description
     label: Dish Description
