@@ -1,0 +1,32 @@
+---
+label: Testimonials & Reviews
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
+- type: file
+  name: bgImage
+  label: bgImage
+- type: field_group_list
+  name: testimonialItem
+  label: testimonialItem
+  fields:
+  - type: text
+    name: name
+    label: name
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: date
+    label: date
+  - type: textarea
+    name: content
+    label: content
