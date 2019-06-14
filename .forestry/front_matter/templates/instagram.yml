@@ -1,0 +1,13 @@
+---
+label: Instagram
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
