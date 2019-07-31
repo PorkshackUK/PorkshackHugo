@@ -62,3 +62,5 @@ fields:
   - type: textarea
     name: description
     label: Dish Description
+pages:
+- data/portfolio.yml
