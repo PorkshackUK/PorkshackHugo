@@ -8,7 +8,7 @@ filterList:
 - filterType: vegan
   filterTitle: Vegan
 portfolioItem:
-- types: meat
+- types: pork
   image: images/portfolio/adobo1.jpg
   icon: tf-ion-android-search
   title: Adobo Pork
