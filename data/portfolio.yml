@@ -10,11 +10,6 @@ filterList:
 - filterType: vegan
   filterTitle: Vegan
 portfolioItem:
-- title: Pork Belly
-  types: pork
-  image: "/PorkShackNew/Confit Pork Belly.jpg"
-  icon: tf-ion-android-search
-  description: Delicious pork belly served with rice
 - types: pork
   image: images/portfolio/adobo1.jpg
   icon: tf-ion-android-search
