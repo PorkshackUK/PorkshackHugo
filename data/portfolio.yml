@@ -14,7 +14,7 @@ portfolioItem:
   title: Adobo Pork
   description: Rich, Filipino Classic. Consists of overnight slow roasted pork, garlic,
     soy sauce, cane vinegar and gluten free.
-- types: meat
+- types: pork
   image: images/portfolio/Rendang.jpg
   icon: tf-ion-android-search
   title: Rendang Pulled Pork
