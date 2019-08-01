@@ -1,10 +1,21 @@
-enable : true
-image : images/about/PorkShack.jpg
-title : FILIPINO FUSION STREET FOOD
-description : We take a modern spin on traditional Filipino dishes by reconstructing popular Filipino family favourites and turning them into street food feasts. We offer vegan alternatives; it’s usually pulled jackfruit which has a very similar texture to pulled pork. We ensure we always offer gluten free and dairy free on our menus. We also use gluten free soy sauce which is used in most of our dishes.
-              <br><br>
-              We only use good quality fresh ingredients and we aim to use local suppliers where we can, independent and great quality. We only use British Free-range pork, which is from our local butcher. We make all our own curry pastes, spice blends and sauces. All our crockery, cups, lids, cutlery and napkins are biodegradable which means they are 100% compostable.
-              <br><br>
-              Over the past few years the UK’s street food scene has boomed! With so many street food pop-up events appearing all over the UK why not add a bit of street food to your event.
-              <br><br>
-              The Pork Shack can offer Filipino Food for any occasion such as weddings, birthdays or even just fancy throwing a party for the hell of it, we can cater to your requirements. You can choose from our menu or if there is anything specific you require we will aim to work to your needs, don’t forget we offer vegan options, gluten free and dairy free.
+---
+enable: true
+image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564694798/PorkShack_ljmmyk.jpg
+title: FILIPINO FUSION STREET FOOD
+description: We take a modern spin on traditional Filipino dishes by reconstructing
+  popular Filipino family favourites and turning them into street food feasts. We
+  offer vegan alternatives; it’s usually pulled jackfruit which has a very similar
+  texture to pulled pork. We ensure we always offer gluten free and dairy free on
+  our menus. We also use gluten free soy sauce which is used in most of our dishes.
+  <br><br> We only use good quality fresh ingredients and we aim to use local suppliers
+  where we can, independent and great quality. We only use British Free-range pork,
+  which is from our local butcher. We make all our own curry pastes, spice blends
+  and sauces. All our crockery, cups, lids, cutlery and napkins are biodegradable
+  which means they are 100% compostable. <br><br> Over the past few years the UK’s
+  street food scene has boomed! With so many street food pop-up events appearing all
+  over the UK why not add a bit of street food to your event. <br><br> The Pork Shack
+  can offer Filipino Food for any occasion such as weddings, birthdays or even just
+  fancy throwing a party for the hell of it, we can cater to your requirements. You
+  can choose from our menu or if there is anything specific you require we will aim
+  to work to your needs, don’t forget we offer vegan options, gluten free and dairy
+  free.
