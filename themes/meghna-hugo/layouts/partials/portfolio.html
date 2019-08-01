@@ -27,7 +27,7 @@
             {{ range .Site.Data.portfolio.portfolioItem }}
             <div class="col-lg-4 filtr-item" data-category="{{ .types }}">
                 <div class="portfolio-block mb-4">
-                    <img class="img-fluid" src="{{ .image | absURL}}" alt="work-image">
+                    <img class="img-fluid" src="{{ .Site.cloudinary_url }}/{{ .image }}" alt="work-image">
                     <div class="caption">
                         <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL}}" data-lightbox="image-1" style="margin-bottom:5%;">
                             <i class="{{ .icon }}"></i>
