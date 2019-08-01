@@ -17,7 +17,7 @@ portfolioItem:
   description: Rich, Filipino Classic. Consists of overnight slow roasted pork, garlic,
     soy sauce, cane vinegar and gluten free.
 - types: pork
-  image: images/portfolio/Rendang.jpg
+  image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564644542/Rendang_bzreef.jpg
   icon: tf-ion-android-search
   title: Rendang Pulled Pork
   description: Indonesian Special. Consists of hoisin, garlic, ginger, coconut, lemongrasas,
