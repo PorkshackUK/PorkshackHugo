@@ -10,6 +10,11 @@ filterList:
 - filterType: vegan
   filterTitle: Vegan
 portfolioItem:
+- title: Crispy Lumpia
+  types: vegan
+  image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564595916/PorkShackNew/IMG_20190706_152508_hejjil.jpg
+  icon: tf-ion-android-search
+  description: Fried Vegetable Spring Rolls served with Sweet & Sour Chilli Sauce
 - types: pork
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564644462/adobo1_tmqjvg.jpg
   icon: tf-ion-android-search
