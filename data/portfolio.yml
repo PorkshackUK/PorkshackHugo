@@ -23,7 +23,7 @@ portfolioItem:
   description: Indonesian Special. Consists of hoisin, garlic, ginger, coconut, lemongrasas,
     garam masala and gluten free.
 - types: vegan
-  image: images/portfolio/Jackfruit1.jpg
+  image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564644433/Jackfruit1_njrseu.jpg
   icon: tf-ion-android-search
   title: Jackfruit Paksiw (Pak-See-Ew)
   description: Alternative Filipino Dish. Pulled jackfruit, chickpeas, garlic, cane
