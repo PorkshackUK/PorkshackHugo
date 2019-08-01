@@ -4,6 +4,7 @@ languageCode = "en-gb"
 summaryLength = 10
 theme = "meghna-hugo"
 title = "The Pork Shack"
+cloudinary_url = "https://res.cloudinary.com/the-pork-shack/image/upload"
 [[menu.nav]]
 URL = "contact-us"
 name = "Contact"
