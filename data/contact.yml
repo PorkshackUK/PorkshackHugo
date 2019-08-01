@@ -1,17 +1,16 @@
-enable : true
-heading : Get In
-headingSpan : Touch
-title : Come find us - keep an eye on Facebook Page for the latest info!
-content : Based in Oxfordshire, our food trailer will be travelling around the country.
-enable_maps : false
-mapLatitude : 51.5223477
-mapLongitude: -0.1622023
-contactDetails :
-  - icon : tf-map-pin
-    info : "Oxfordshire based"
-
-  - icon : tf-ion-ios-telephone-outline
-    info : "Phone: 07897 201936 "
-
-  - icon : tf-ion-ios-email-outline
-    info : "Email: theporkshackuk@gmail.com"
+---
+enable: true
+heading: Get In
+headingSpan: Touch
+title: Come find us - keep an eye on Facebook Page for the latest info!
+content: Based in Oxfordshire, our food trailer will be travelling around the country.
+enable_maps: false
+mapLatitude: "51.5223477"
+mapLongitude: "-0.1622023"
+contactDetails:
+- icon: tf-map-pin
+  info: Oxfordshire based
+- icon: tf-ion-ios-telephone-outline
+  info: 'Phone: 07588 320736'
+- icon: tf-ion-ios-email-outline
+  info: 'Email: theporkshackuk@gmail.com'
