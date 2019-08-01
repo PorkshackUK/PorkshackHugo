@@ -4,7 +4,7 @@ heading: Our
 headingSpan: Dishes
 filterList:
 - filterType: sides
-  filterTitle: Sides
+  filterTitle: Side Dish
 - filterType: pork
   filterTitle: Pork
 - filterType: vegan
