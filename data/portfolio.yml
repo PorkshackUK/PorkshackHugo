@@ -3,8 +3,6 @@ enable: true
 heading: Our
 headingSpan: Dishes
 filterList:
-- filterType: sides
-  filterTitle: Side Dish
 - filterType: pork
   filterTitle: Pork
 - filterType: vegan
