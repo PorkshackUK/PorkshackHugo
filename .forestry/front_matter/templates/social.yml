@@ -1,4 +1,35 @@
 ---
 label: Social
 hide_body: true
-fields: []
+fields:
+- name: socialicon
+  type: field_group_list
+  fields:
+  - name: icon
+    type: select
+    default: []
+    config:
+      required: false
+      options:
+      - tf-puzzle
+      - tf-pin
+      - tf-grandparents-circle-o
+      - tf-bullhorn-circle-o
+      - tf-heart-o
+      - tf-person-comment-circle-o
+      source:
+        type: simple
+        section: 
+        file: 
+        path: 
+    label: Social Media Icon
+  - name: url
+    type: text
+    config:
+      required: false
+    label: url
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: socialIcon
