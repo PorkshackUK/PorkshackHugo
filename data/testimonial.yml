@@ -1,9 +1,15 @@
-enable : true
-heading : Our
-headingSpan : Reviews
-bgImage : images/backgrounds/phillippines2.jpg
-testimonialItem :
-  - name : Miriam Garcia
-    image : images/Testimonials/MiriamGaria.jpg
-    date : January 26, 2019
-    content : Really great pair, both are very professional and hard working. We really loved their Adobo Pork and it was the perfect treat for my husband's 30th birthday!
+---
+enable: true
+heading: Our
+headingSpan: Reviews
+bgImage: images/backgrounds/phillippines2.jpg
+testimonialItem:
+- name: ''
+  image: ''
+  date: ''
+  content: ''
+- name: Miriam Garcia
+  image: images/Testimonials/MiriamGaria.jpg
+  date: January 26, 2019
+  content: Really great pair, both are very professional and hard working. We really
+    loved their Adobo Pork and it was the perfect treat for my husband's 30th birthday!

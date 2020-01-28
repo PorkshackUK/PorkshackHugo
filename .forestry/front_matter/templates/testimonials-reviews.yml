@@ -30,3 +30,5 @@ fields:
     name: content
     label: Review Copy
   label: Testimonials & Reviews
+pages:
+- data/testimonial.yml
