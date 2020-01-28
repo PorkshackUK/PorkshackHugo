@@ -5,7 +5,7 @@ headingSpan: Reviews
 bgImage: images/backgrounds/phillippines2.jpg
 testimonialItem:
 - name: ''
-  image: ''
+  image: https://res.cloudinary.com/the-pork-shack/image/upload/v1580236889/58a380c58e20f8d88a8f45845863ff32_qtotxf.png
   date: ''
   content: ''
 - name: Miriam Garcia
