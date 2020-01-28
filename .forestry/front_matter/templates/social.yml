@@ -5,29 +5,17 @@ fields:
 - name: socialicon
   type: field_group_list
   fields:
-  - name: icon
-    type: select
-    default: []
-    config:
-      required: false
-      options:
-      - tf-puzzle
-      - tf-pin
-      - tf-grandparents-circle-o
-      - tf-bullhorn-circle-o
-      - tf-heart-o
-      - tf-person-comment-circle-o
-      source:
-        type: simple
-        section: 
-        file: 
-        path: 
-    label: Social Media Icon
   - name: url
     type: text
     config:
       required: false
     label: url
+  - name: icon
+    type: text
+    config:
+      required: false
+    label: icon
+    description: 'Pick icon from here: https://iconify.design/icon-sets/ion/'
   config:
     min: 
     max: 
