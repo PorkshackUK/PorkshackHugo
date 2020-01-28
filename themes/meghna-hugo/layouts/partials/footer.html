@@ -10,6 +10,9 @@
 						{{ range .Site.Params.footer.socialIcon }}
 						<li class="list-inline-item"><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
 						{{ end }}
+						{{ range .Site.Data.social }}
+						<li class="list-inline-item"><a href="{{ .url }}"><i class="{{ .icon }}"></i></a></li>
+						{{ end }}
 					</ul>
 				</div>
 
