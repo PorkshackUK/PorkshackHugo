@@ -8,7 +8,7 @@ filterList:
 - filterType: vegan
   filterTitle: Vegan
 portfolioItem:
-- title: ''
+- title: Chicken Sarap
   types: ''
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1580236468/IMG_20200128_183130_jmqwy1.jpg
   icon: tf-ion-android-search
