@@ -33,3 +33,5 @@ fields:
     max: 
     labelField: 
   label: socialIcon
+pages:
+- data/social.yml
