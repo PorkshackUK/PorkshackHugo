@@ -15,7 +15,7 @@ fields:
     config:
       required: false
     label: icon
-    description: 'Pick icon from here: https://iconify.design/icon-sets/ion/'
+    description: 'Pick icon from here: http://www.vanessasalvador.com.br/e-commerce/plugins/themefisher-font/demo.html'
   config:
     min: 
     max: 
