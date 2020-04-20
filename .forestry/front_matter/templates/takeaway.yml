@@ -1,0 +1,66 @@
+---
+label: Takeaway
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
+- type: textarea
+  name: topText
+  label: topText
+- type: textarea
+  name: bottomText
+  label: bottomText
+- type: field_group_list
+  name: mains
+  label: mains
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: icon
+    label: icon
+  - type: textarea
+    name: description
+    label: description
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: allergens
+    label: allergens
+- type: field_group_list
+  name: sides
+  label: sides
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: file
+    name: image
+    label: image
+  - type: text
+    name: icon
+    label: icon
+  - type: text
+    name: description
+    label: description
+  - type: text
+    name: price
+    label: price
+  - type: text
+    name: allergens
+    label: allergens
+- type: textarea
+  name: drinks
+  label: drinks
