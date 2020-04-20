@@ -77,3 +77,5 @@ fields:
 - type: textarea
   name: drinks
   label: drinks
+pages:
+- data/takeaway.yml
