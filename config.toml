@@ -64,8 +64,8 @@ content = "When you book us all you need to do is tell us where we’re pitching
 enable = true
 title = "Street Food Catering"
 [params.footer]
-copyright = "The Pork Shack"
-copyrightURL = ""
+copyright = "Antvd.space"
+copyrightURL = "https://antvd.space"
 [[params.footer.socialIcon]]
 icon = "tf-ion-social-facebook"
 url = "https://www.facebook.com/theporkshackUK/"
