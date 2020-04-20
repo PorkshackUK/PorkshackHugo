@@ -1,4 +1,65 @@
 ---
 label: Fold Info
 hide_body: true
-fields: []
+fields:
+- name: image
+  type: file
+  config:
+    maxSize: 250
+  label: Hero image (logo)
+- name: content
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: true
+    schema:
+      format: markdown
+  label: Main hero copy
+- name: btn
+  type: boolean
+  label: Has button?
+  description: Toggle for CTA button
+- name: bgImage
+  type: file
+  config:
+    maxSize: 250
+  label: Background Image
+  description: The background image of Hero
+- name: btnURL
+  type: select
+  default: ''
+  config:
+    required: false
+    options:
+    - "#takeaway"
+    - "#contact"
+    - "#dishes"
+    - "#about"
+    source:
+      type: simple
+      section: configuration-file
+      file: data/about.yml
+      path: 
+  label: Link for button
+- name: btnText
+  type: text
+  config:
+    required: false
+  label: Text in Button
+- name: subheading
+  type: text
+  config:
+    required: false
+  label: Subheading Title
+  description: Leave empty if not needed
+- name: subcontent
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Subheading Content
+  description: Leave empty if not needed
