@@ -63,3 +63,5 @@ fields:
       format: markdown
   label: Subheading Content
   description: Leave empty if not needed
+pages:
+- data/fold.yml
