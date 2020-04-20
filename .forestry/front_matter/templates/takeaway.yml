@@ -5,15 +5,22 @@ fields:
 - type: boolean
   name: enable
   label: enable
+  description: Disable when no longer needed
 - type: text
   name: heading
-  label: heading
+  label: 1st Heading part
+  description: in this case "Takeaway"
 - type: text
   name: headingSpan
-  label: headingSpan
+  label: 2nd Header part
+  description: in this case "Dishes"
 - type: textarea
   name: topText
   label: topText
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: textarea
   name: bottomText
   label: bottomText
@@ -30,9 +37,12 @@ fields:
   - type: text
     name: icon
     label: icon
+    hidden: true
   - type: textarea
     name: description
     label: description
+    config:
+      max: 98
   - type: text
     name: price
     label: price
@@ -52,9 +62,12 @@ fields:
   - type: text
     name: icon
     label: icon
+    hidden: true
   - type: text
     name: description
     label: description
+    config:
+      max: 98
   - type: text
     name: price
     label: price
