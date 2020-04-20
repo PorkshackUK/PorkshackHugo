@@ -20,7 +20,7 @@ mains:
 - title: Chicken Kalderetta
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Chicken thighs in kalderetta curry sauce made with turmeric, garlic,
+  description: Chicken thighs in kalderetta sauce made with turmeric, garlic,
     onion, peppers and coconut milk.
   price: "£7.00"
   allergens: Gluten Free, Nut Free & Dairy Free
@@ -48,7 +48,7 @@ mains:
 - title: Veggie Kalderetta
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Vegan chicken kalderetta curry sauce made with turmeric, ginger, onions,
+  description: Vegan chicken kalderetta sauce made with turmeric, ginger, onions,
     peppers and coconut milk.
   price: "£7.00"
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
