@@ -2,6 +2,12 @@
 label: Fold Info
 hide_body: true
 fields:
+- name: bgImage
+  type: file
+  config:
+    maxSize: 250
+  label: Background Image
+  description: The background image of Hero
 - name: image
   type: file
   config:
@@ -20,12 +26,6 @@ fields:
   type: boolean
   label: Has button?
   description: Toggle for CTA button
-- name: bgImage
-  type: file
-  config:
-    maxSize: 250
-  label: Background Image
-  description: The background image of Hero
 - name: btnURL
   type: select
   default: ''
@@ -42,11 +42,17 @@ fields:
       file: data/about.yml
       path: 
   label: Link for button
+  showOnly:
+    field: btn
+    value: true
 - name: btnText
   type: text
   config:
     required: false
   label: Text in Button
+  showOnly:
+    field: btn
+    value: true
 - name: subheading
   type: text
   config:
