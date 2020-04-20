@@ -44,10 +44,10 @@
                             <i class="{{ .icon }}"></i>
                         </a>
                         <h4><a href="{{ .URL | absURL }}">{{ .title }}</a></h4>
-                          {{ .description }}<br>
-                          <p>
+                        <p> {{ .description }}</p>
+                        <p>
                           <strong>{{ .price }}</strong><br>
-                          {{ .allergens }}
+                          <span style="font-size:50%;">{{ .allergens }}<span>
                         </p>
                     </div>
                 </div>
