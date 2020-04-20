@@ -1,0 +1,63 @@
+{{ if .Site.Data.takeaway.enable}}
+<section class="takeaway" id="takeaway">
+    <div class="container">
+        <div class="row ">
+            <div class="col-xl-12">
+                <div class="title text-center">
+                    <h2> {{ with .Site.Data.takeaway.heading }} {{ . }} {{ end }} <span class="color">{{ with .Site.Data.takeaway.headingSpan }} {{ . }} {{ end }}</span></h2>
+                    <div class="border-meghna"></div>
+                    <p class="text-center"><br> {{ .Site.Data.takeaway.topText | markdownify }}</p>
+                </div>
+            </div>
+        </div>
+        <h3 class="title text-center">Main Dishes</h3>
+        <p class="subheading text-center">Click the dish for information</p>
+        <div class="row">
+            {{ range .Site.Data.takeaway.mains }}
+            <div class="col-lg-4">
+                <div class="portfolio-block mb-4">
+                    <img class="img-fluid" src="{{ .image }}" alt=".title">
+                    <div class="caption">
+                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL}}" data-lightbox="image-1" style="margin-bottom:5%;">
+                            <i class="{{ .icon }}"></i>
+                        </a>
+                        <h4><a href="{{ .URL | absURL }}">{{ .title }}</a></h4>
+                        <p> {{ .description }}</p>
+                        <p>
+                          <strong>{{ .price }}</strong><br>
+                          <span style="font-size:50%;">{{ .allergens }}<span>
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        <h3 class="title text-center">Side Dishes</h3>
+        <p class="subheading text-center">Click the dish for information</p>
+        <div class="row">
+            {{ range .Site.Data.takeaway.sides }}
+            <div class="col-lg-4">
+                <div class="portfolio-block mb-4">
+                    <img class="img-fluid" src="{{ .image }}" alt=".title">
+                    <div class="caption">
+                        <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL}}" data-lightbox="image-1" style="margin-bottom:5%;">
+                            <i class="{{ .icon }}"></i>
+                        </a>
+                        <h4><a href="{{ .URL | absURL }}">{{ .title }}</a></h4>
+                          {{ .description }}<br>
+                          <p>
+                          <strong>{{ .price }}</strong><br>
+                          {{ .allergens }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+        <h3 class="text-center">Drinks</h3>
+        <p class="text-center"><br> {{ .Site.Data.takeaway.drinks | markdownify }}</p>
+        <h3 class="text-center">Important</h3>
+        <p class="text-center"><br> {{ .Site.Data.takeaway.bottomText | markdownify }}</p>
+    </div>
+</section>
+{{ end }}

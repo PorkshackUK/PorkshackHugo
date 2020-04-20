@@ -22,11 +22,12 @@
                 </div>
             </div>
         </div>
+        <p class="text-center">Click the dish for information</p>
         <div class="row filtr-container">
             {{"<!-- portfolio item -->" | safeHTML}}
             {{ range .Site.Data.portfolio.portfolioItem }}
             <div class="col-lg-4 filtr-item" data-category="{{ .types }}">
-                <div class="portfolio-block mb-4">
+                <div class="portfolio-block mb-4 leftMargin">
                     <img class="img-fluid" src="{{ .image }}" alt=".title">
                     <div class="caption">
                         <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | absURL}}" data-lightbox="image-1" style="margin-bottom:5%;">

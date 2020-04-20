@@ -1,6 +1,6 @@
 ---
 enable: true
-heading: Our
+heading: Our Foodtruck
 headingSpan: Dishes
 filterList:
 - filterType: pork
@@ -11,34 +11,33 @@ portfolioItem:
 - title: Chicken Sarap
   types: ''
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1580236468/IMG_20200128_183130_jmqwy1.jpg
-  icon: tf-ion-android-search
+  icon: tf-ion-android-restaurant
   description: 'Pulled Chicken Thigh, Fresh Turmeric, Garlic, Sugar Cane Vinegar, '
 - title: Crispy Lumpia
   types: vegan
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564684634/Spring_Rolls_o6ubqg.jpg
-  icon: tf-ion-android-search
+  icon: tf-ion-android-restaurant
   description: Fried Vegetable Spring Rolls served with Sweet & Sour Chilli Sauce
 - types: pork
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564644462/adobo1_tmqjvg.jpg
-  icon: tf-ion-android-search
+  icon: tf-ion-android-restaurant
   title: Adobo Pork
   description: Rich, Filipino Classic. Consists of overnight slow roasted pork, garlic,
-    soy sauce, cane vinegar and gluten free.
+    soy sauce, cane vinegar and gluten-free.
 - title: Char Siu Confit Belly
   types: pork
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564684381/Pork_Belly_v4znoo.jpg
-  icon: tf-ion-android-search
-  description: Cantonese Special, belly pork, hoisin, garlic, ginger, soy sauce, five
-    spice, honey, sriracha and gluten free
+  icon: tf-ion-android-restaurant
+  description: Cantonese Special, belly pork, hoisin, garlic, ginger, soy sauce, five-spice, honey, sriracha and gluten free
 - types: pork
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564644542/Rendang_bzreef.jpg
-  icon: tf-ion-android-search
+  icon: tf-ion-android-restaurant
   title: Rendang Pulled Pork
   description: Indonesian Special. Consists of hoisin, garlic, ginger, coconut, lemongrasas,
     garam masala and gluten free.
 - types: vegan
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1564684890/Jackfruit_y5djio.jpg
-  icon: tf-ion-android-search
+  icon: tf-ion-android-restaurant
   title: Jackfruit Paksiw (Pak-See-Ew)
   description: Alternative Filipino Dish. Pulled jackfruit, chickpeas, garlic, cane
     vinegar, soy sauce.

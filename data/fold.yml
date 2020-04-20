@@ -1,0 +1,9 @@
+enable: true
+bgImage: "images/slider/phillipines.jpg"
+btn: true
+btnURL: "#takeaway"
+btnText: "Click for our Takeaway Menu"
+content: "The Pork Shack is a theme based event caterer - normally you'd find us at food festivals and other public private events."
+subheading: "COVID19 Takeaway Service"
+subcontent: "We've decided to adapt what we do and offer Filipino Street Food for home delivery in Thame and the surrounding villages (within 5 miles)."
+image: "images/logoText.png"

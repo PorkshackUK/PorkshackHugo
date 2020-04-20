@@ -1,0 +1,75 @@
+---
+enable: true
+heading: Our Takeaway
+headingSpan: Dishes
+topText: Your safety is our priority so we will be enforcing extra strict hygiene and social distancing rules.
+bottomText: 'Available every Friday, Saturday and Sunday, 5:00 - 9:00 pm. <br><br>To make your order please call <a href="tel:07401305188">07401 305 188</a> between 5-9pm or pre-order via text message.<br> We will then send you a text message with a payment link for you to make your payment.<br>There is also a £2.50 delivery charge for areas outside Thame.'
+mains:
+- title: Chicken Adobo
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Rich chicken thigh dish with sauce made from soy, cane vinegar, garlic, onion, black pepper and bay leaves.'
+  price: £7.00
+  allergens: Gluten Free, Nut Free & Dairy Free
+- title: Chicken Kalderetta
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Chicken thighs in kalderetta curry sauce made with turmeric, garlic, onion, peppers and coconut milk.'
+  price: £7.00
+  allergens: Gluten Free, Nut Free & Dairy Free
+- title: Pork Hamonado
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Chunks of pork shoulder in a Filipino style sweet and sour sauce with pineapple.'
+  price: £7.00
+  allergens: Gluten Free, Nut Free & Dairy Free
+- title: Char Siu Belly Pork
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Confit pork belly in the infamous cantonese glaze: Hoisin, five-spice, sriracha and honey. '
+  price: £8.00
+  allergens: Gluten Free, Nut Free & Dairy Free
+- title: Jackfruit Paksiw
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Young jackfruit slow cooked with soy, cane vinegar, bay leaves, black pepper and chickpeas.'
+  price: £6.00
+  allergens: Vegan, Gluten Free, Nut Free & Dairy Free
+- title: Veggie Kalderetta
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Vegan chicken kalderetta curry sauce made with turmeric, ginger, onions, peppers and coconut milk.'
+  price: £7.00
+  allergens: Vegan, Gluten Free, Nut Free & Dairy Free
+sides:
+- title: Plain Rice
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Fluffy, long-grain rice.'
+  price: £2.50
+  allergens: Vegan, Gluten Free, Nut Free & Dairy Free
+- title: Coconut Rice
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Flavoured rice with dried coconut.'
+  price: £3.00
+  allergens: Vegan, Gluten Free, Nut Free & Dairy Free
+- title: Crispy Lumpia
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Fried vegetable spring rolls (4x) with sweet and sour dip.'
+  price: £4.00
+  allergens: Vegan, Nut Free & Dairy Free
+- title: Pancit Noodles
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Filipino stir-fried vegetable noodles.'
+  price: £4.00
+  allergens: Vegan, Nut Free & Dairy Free
+- title: Pickled Slaw
+  image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
+  icon: tf-ion-android-restaurant
+  description: 'Lightly pickled vegetable salad.'
+  price: £2.50
+  allergens: Vegan, Gluten Free, Nut Free & Dairy Free
+drinks: We also offer accompanying drinks (cans) for £1 each.<br>Options include Coca Cola, Coca Cola Zero, Orange Tango Zero, Pepsi Max Cherry and 7 Up Zero.
