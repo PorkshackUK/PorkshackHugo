@@ -1,26 +1,26 @@
 DefaultContentLanguage = "en"
 baseURL = ""
+cloudinary_url = "https://res.cloudinary.com/the-pork-shack/image/upload"
 languageCode = "en-gb"
 summaryLength = 10
 theme = "meghna-hugo"
 title = "The Pork Shack"
-cloudinary_url = "https://res.cloudinary.com/the-pork-shack/image/upload"
-[[menu.nav]]
-URL = "contact-us"
-name = "Contact"
-weight = 3
-[[menu.nav]]
-URL = "dishes"
-name = "Foodtruck"
-weight = 1
 [[menu.nav]]
 URL = "takeaway"
 name = "Takeaway"
 weight = 1
 [[menu.nav]]
+URL = "dishes"
+name = "Foodtruck"
+weight = 2
+[[menu.nav]]
 URL = "about"
 name = "About Us"
-weight = 2
+weight = 3
+[[menu.nav]]
+URL = "contact-us"
+name = "Contact"
+weight = 4
 [params]
 author = "Ant Villa Dean"
 custom_css = ["css/custom.css"]
@@ -32,9 +32,9 @@ logo = "images/siteicon.png"
 [params.banner]
 bgImage = "images/slider/phillipines.jpg"
 btn = true
+btnText = "Takeaway Price and Menu"
 btnURL = "#takeaway"
 content = "During these strange times"
-btnText = "Takeaway Price and Menu"
 enable = true
 heading = ""
 image = "images/logoText.png"
