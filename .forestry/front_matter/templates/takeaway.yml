@@ -31,9 +31,16 @@ fields:
   - type: text
     name: title
     label: title
+  - name: hasImage
+    type: boolean
+    label: Has image
+    description: Toggle for whether there is an accompanied image
   - type: file
     name: image
     label: image
+    showOnly:
+      field: hasImage
+      value: true
   - type: text
     name: icon
     label: icon
