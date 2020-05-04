@@ -10,10 +10,6 @@ URL = "takeaway"
 name = "Takeaway"
 weight = 1
 [[menu.nav]]
-URL = "dishes"
-name = "Foodtruck"
-weight = 2
-[[menu.nav]]
 URL = "about"
 name = "About Us"
 weight = 3
