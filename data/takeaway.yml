@@ -29,9 +29,8 @@ mains:
 - title: Pork Hamonado
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Chunks of pork shoulder in a Filipino style sweet and sour sauce with
-    pineapple.
-  price: "£7.00"
+  description: Confit pork belly in a Filipino style sweet and sour sauce with pineapple.
+  price: "£8.00"
   allergens: Gluten Free, Nut Free & Dairy Free
   hasImage: false
 - title: Char Siu Belly Pork
