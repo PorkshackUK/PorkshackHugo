@@ -21,8 +21,8 @@ mains:
 - title: Chicken Rendang
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Chicken thighs. Spicy coconut-based. Fresh Ginger, Lemongrass, Kafir
-    lime & Chilli.
+  description: Chicken thighs. Spicy coconut-based curry. Fresh Ginger, Lemongrass,
+    Kafir lime & Chilli.
   price: "£8.00"
   allergens: Gluten Free, Nut Free & Dairy Free
   hasImage: false
