@@ -18,12 +18,12 @@ mains:
   price: "£7.00"
   allergens: Gluten Free, Nut Free & Dairy Free
   hasImage: false
-- title: Chicken Kalderetta
+- title: Chicken Rendang
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Chicken thighs in kalderetta sauce made with turmeric, garlic, onion,
-    peppers and coconut milk.
-  price: "£7.00"
+  description: Chicken thighs. Spicy coconut-based. Fresh Ginger, Lemongrass, Kafir
+    lime & Chilli.
+  price: "£8.00"
   allergens: Gluten Free, Nut Free & Dairy Free
   hasImage: false
 - title: Pork Hamonado
