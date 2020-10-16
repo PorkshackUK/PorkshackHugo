@@ -26,10 +26,11 @@ mains:
   price: "£8.00"
   allergens: Gluten Free, Nut Free & Dairy Free
   hasImage: false
-- title: Pork Hamonado
+- title: 'Teriyaki Pork Belly '
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Confit pork belly in a Filipino style sweet and sour sauce with pineapple.
+  description: Confit Belly pork in our Japanese Teriyaki sauce. Soy sauce, ginger,
+    garlic, brown sugar and mirin
   price: "£8.00"
   allergens: Gluten Free, Nut Free & Dairy Free
   hasImage: false
