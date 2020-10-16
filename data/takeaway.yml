@@ -58,6 +58,12 @@ mains:
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
   hasImage: false
 sides:
+- title: 'Vegetable Dumplings x5 '
+  image: ''
+  icon: ''
+  description: Vegetable dumplings with Garlic Lime & Soy dip
+  price: "£4"
+  allergens: "(Ve, NF, DF)"
 - title: Plain Rice
   image: https://res.cloudinary.com/the-pork-shack/image/upload/v1587574624/rice_bowl_tj0vay.jpg
   icon: tf-ion-android-restaurant
