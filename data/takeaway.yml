@@ -50,11 +50,11 @@ mains:
   price: "£6.00"
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
   hasImage: false
-- title: Veggie Kalderetta
+- title: Teriyaki Jackfruit
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
-  description: Vegan chicken kalderetta sauce made with turmeric, ginger, onions,
-    peppers and coconut milk.
+  description: Young jackfruit in our Teriyaki sauce. Soy sauce, ginger, garlic, brown
+    sugar, chickpeas and mirin
   price: "£7.00"
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
   hasImage: false
