@@ -58,6 +58,12 @@ mains:
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
   hasImage: false
 sides:
+- title: Chicken Dumplings x7 with Garlic Lime & Soy dip
+  image: ''
+  icon: ''
+  description: 'Chicken Dumplings x7 with Garlic Lime & Soy dip '
+  price: "£5"
+  allergens: "(NF, DF)"
 - title: 'Vegetable Dumplings x5 '
   image: ''
   icon: ''
