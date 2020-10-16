@@ -58,6 +58,12 @@ mains:
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
   hasImage: false
 sides:
+- title: Char Siu Steamed buns x2 (NF) - £4
+  image: ''
+  icon: ''
+  description: 'Char Siu Steamed buns x2 '
+  price: "£4"
+  allergens: "(NF)"
 - title: Chicken Dumplings x7 with Garlic Lime & Soy dip
   image: ''
   icon: ''
