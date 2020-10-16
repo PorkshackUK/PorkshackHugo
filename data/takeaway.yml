@@ -9,6 +9,14 @@ bottomText: Available every Friday & Saturday 5:00 - 8:30 pm. We are no longer o
   305 188.<br> There is also a £2.50 delivery charge for areas outside Thame and £1
   within Thame.
 mains:
+- title: BBQ Pulled Pork Loaded Fries
+  hasImage: false
+  image: ''
+  icon: ''
+  description: Free-range, british pulled pork, 10 hour slow roasted with smokey BBQ
+    sauce
+  price: "£7"
+  allergens: NF, GF, DF
 - title: Fili Loaded Fries
   hasImage: false
   image: ''
