@@ -9,6 +9,14 @@ bottomText: Available every Friday & Saturday 5:00 - 8:30 pm. We are no longer o
   305 188.<br> There is also a £2.50 delivery charge for areas outside Thame and £1
   within Thame.
 mains:
+- title: Fili Loaded Fries
+  hasImage: false
+  image: ''
+  icon: ''
+  description: free-range, british pulled pork, 10 hour slow roasted with a rich soy
+    & garlic sauce
+  price: "£7"
+  allergens: " GF, NF, DF"
 - title: Chicken Adobo
   image: https://res.cloudinary.com/dmw0znxgj/image/upload/v1587371996/PorkShack/Adobo.jpg
   icon: tf-ion-android-restaurant
