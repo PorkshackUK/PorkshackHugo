@@ -5,13 +5,13 @@ fields:
 - name: bgImage
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Background Image
   description: The background image of Hero
 - name: image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: Hero image (logo)
 - name: content
   type: textarea
@@ -36,6 +36,7 @@ fields:
     - "#contact"
     - "#dishes"
     - "#about"
+    - http://theporkshack.tillex.co.uk
     source:
       type: simple
       section: configuration-file
