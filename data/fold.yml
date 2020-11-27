@@ -2,7 +2,7 @@
 enable: true
 bgImage: images/slider/phillipines.jpg
 btn: true
-btnURL: "#takeaway"
+btnURL: http://theporkshack.tillex.co.uk
 btnText: Click for our Takeaway Menu
 content: The Pork Shack is a theme based event caterer - normally you'd find us at
   food festivals and other public private events.
