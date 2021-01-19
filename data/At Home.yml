@@ -1,5 +1,8 @@
 ---
 enable: false
 heading: At Home Kits
-headingSpan: ''
-aboutItem: []
+headingSpan: Try The Pork Shack at Home Kits
+aboutItem:
+- image: ''
+  title: ''
+  content: ''
