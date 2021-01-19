@@ -24,3 +24,5 @@ fields:
   - type: textarea
     name: content
     label: content
+pages:
+- data/At Home.yml
