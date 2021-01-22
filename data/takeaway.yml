@@ -4,9 +4,9 @@ heading: Our Takeaway
 headingSpan: Dishes
 topText: Your safety is our priority so we will be enforcing extra strict hygiene
   and social distancing rules.
-bottomText: "Available every Friday & Saturday 5:00 - 8:30 pm. We are no longer open
-  on Sundays.<br><br>To make your order please call <a href=\"tel:07401305188\">07401
-  305 188.\n<br>We are based at the Falcon Pub where you can collect your orders. "
+bottomText: "Available every Thursday - Sunday 5:00 - 8:30 pm.<br><br>To make your
+  order please call <a href=\"tel:07401305188\">07401 305 188.\n<br>We are based at
+  the Falcon Pub where you can collect your orders. "
 mains:
 - title: Vegan BBQ Jackfruit Loaded Fries
   hasImage: false
@@ -136,4 +136,4 @@ sides:
   description: Lightly pickled vegetable salad.
   price: "£2.50"
   allergens: Vegan, Gluten Free, Nut Free & Dairy Free
-drinks: 'We are no longer offering drinks. '
+drinks: ''
