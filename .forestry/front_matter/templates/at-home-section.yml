@@ -1,0 +1,43 @@
+---
+label: At Home Section
+hide_body: true
+fields:
+- type: boolean
+  name: enable
+  label: enable
+- type: text
+  name: heading
+  label: heading
+- type: text
+  name: headingSpan
+  label: headingSpan
+- type: text
+  name: title1
+  label: title1
+- type: textarea
+  name: content1
+  label: content1
+- type: file
+  name: image1
+  label: image1
+- type: text
+  name: url1
+  label: url1
+- type: text
+  name: urlText1
+  label: urlText1
+- type: text
+  name: title2
+  label: title2
+- type: text
+  name: content2
+  label: content2
+- type: file
+  name: image2
+  label: image2
+- type: text
+  name: url2
+  label: url2
+- type: text
+  name: urlText2
+  label: urlText2
