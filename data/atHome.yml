@@ -3,23 +3,24 @@ enable: true
 heading: Takeaway and Delivery
 headingSpan: ''
 title1: Pan Asian Street Food Take Away
-content1: |-
-  Due to the pandemic in 2020 we had to quickly adapt in order for our business to succeed, we turned our event catering service to a take away delivery service, at the start of the lock down we were able to run from our car park from our catering trailer. We rejigged our menu a little to make sure it worked better as a take away and boom!
+content1: |
+    Due to the pandemic in 2020 we had to quickly adapt in order for our business to succeed, we turned our event catering service to a take away delivery service, at the start of the lock down we were able to run from our car park from our catering trailer. We rejigged our menu a little to make sure it worked better as a take away and boom!
 
-  We couldn’t believe how successful it was the positive comments we received from customers.
+    We couldn’t believe how successful it was the positive comments we received from customers.
 
-  A few months later and events still not able to go ahead, we approached a small pub in our town and asked the lovely land ladies at The Falcon Pub if we could move into their kitchen and run our take away from their pub as the demand was becoming too much for our little kitchen in our home.
+    A few months later and events still not able to go ahead, we approached a small pub in our town and asked the lovely land ladies at The Falcon Pub if we could move into their kitchen and run our take away from their pub as the demand was becoming too much for our little kitchen in our home.
 
-  You can place your orders on our ordering website now, in lock down we are offering delivery within 5 miles.
+    You can place your orders on our ordering website now, in lock down we are offering delivery within 5 miles.
 
-  We are also making sure we are Covid safe and giving everyone collection times to arrive to pick up your order. Please do come at your allotted time when you collect.
-image1: https://res.cloudinary.com/the-pork-shack/image/upload/v1611487441/Picture_selection_2101221_qxmipx.png
-url1: https://theporkshack.tillex.co.uk
+    We are also making sure we are Covid safe and giving everyone collection times to arrive to pick up your order. Please do come at your allotted time when you collect.
+image1: "https://res.cloudinary.com/the-pork-shack/image/upload/v1611487441/Picture_selection_2101221_qxmipx.png"
+url1: "https://theporkshack.tillex.co.uk"
 urlText1: Click here to order now
 title2: At Home Kits
-content2: "We now have a range of luxury ready meals & DIY Kits from our Street Food
-  menu. \nWe are able to offer delivery to OX9, OX39, OX1, OX2, OX3, OX4, OX33. \nHave
-  a look at our dishes and place your order. \n"
-image2: https://res.cloudinary.com/the-pork-shack/image/upload/v1611487939/IMG-20210122-WA0029_qdrtjq.jpg
-url2: https://theporkshack.tillex.co.uk
+content2: |
+    We now have a range of luxury ready meals & DIY Kits from our Street Food menu.
+    We are able to offer delivery to OX9, OX39, OX1, OX2, OX3, OX4, OX33.
+    Havea look at our dishes and place your order.
+image2: "https://res.cloudinary.com/the-pork-shack/image/upload/v1611487939/IMG-20210122-WA0029_qdrtjq.jpg"
+url2: "https://theporkshack.tillex.co.uk"
 urlText2: Click here to order now
