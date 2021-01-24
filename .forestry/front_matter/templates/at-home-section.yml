@@ -17,6 +17,10 @@ fields:
 - type: textarea
   name: content1
   label: Section 1 Copy
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: file
   name: image1
   label: Section 1 Image
@@ -29,9 +33,15 @@ fields:
 - type: text
   name: title2
   label: Section 2 Title
-- type: text
-  name: content2
-  label: Section 2 Copy
+- name: content2
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Section 2 Content
 - type: file
   name: image2
   label: Section 2 Image
