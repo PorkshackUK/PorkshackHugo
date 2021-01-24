@@ -14,14 +14,14 @@
             {{"<!-- /section title -->" | safeHTML }}
         </div>
         <div class="row">
-            <div class="col-lg-6 content text-center">
-                <h2>{{ with .Site.Data.atHome.title1 }} {{ . }}  {{ end }}</h2>
+            <div class="col-lg-12 content text-center">
+                <h2 class="title">{{ with .Site.Data.atHome.title1 }} {{ . }}  {{ end }}</h2>
                 <p>{{ with .Site.Data.atHome.content1 | markdownify }} {{ . }}  {{ end }}</p>
                 <img class="img-fluid" src="{{ .Site.Data.atHome.image1 | absURL }}" alt="image">
                 <a href="{{ .Site.Data.atHome.url }}" class="btn btn-transparent fold2">{{ with .Site.Data.atHome.urlText1 }} {{ . }} {{end}}</a>
             </div>
-            <div class="col-lg-6 content text-center">
-                <h2>{{ with .Site.Data.atHome.title2 }} {{ . }}  {{ end }}</h2>
+            <div class="col-lg-12 content text-center">
+                <h2 class="title">{{ with .Site.Data.atHome.title2 }} {{ . }}  {{ end }}</h2>
                 <p>{{ with .Site.Data.atHome.content2 | markdownify }} {{ . }}  {{ end }}</p>
                 <img class="img-fluid" src="{{ .Site.Data.atHome.image2 | absURL }}" alt="image">
                 <a href="{{ .Site.Data.atHome.url }}" class="btn btn-transparent fold2">{{ with .Site.Data.atHome.urlText2 }} {{ . }} {{end}}</a>
