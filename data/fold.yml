@@ -1,12 +1,12 @@
 ---
 enable: true
 bgImage: images/slider/phillipines.jpg
-btn: true
+btn: false
 btnURL: http://theporkshack.tillex.co.uk
 btnText: Click for our Takeaway Menu
 content: The Pork Shack is a theme based event caterer - normally you'd find us at
   food festivals and other public private events.
-subheading: COVID19 Takeaway Service
+subheading:
 subcontent: We've decided to adapt what we do and offer Pan Asian Street Food at the
   Falcon Pub in Thame. We are no longer able to offer delivery but you can collect
   from the Falcon Pub.

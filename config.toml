@@ -6,21 +6,21 @@ summaryLength = 10
 theme = "meghna-hugo"
 title = "The Pork Shack"
 [[menu.nav]]
-URL = "takeaway"
-name = "Takeaway"
-weight = 1
-[[menu.nav]]
 URL = "about"
 name = "About Us"
-weight = 3
+weight = 1
+[[menu.nav]]
+URL = "takeaway"
+name = "Takeaway"
+weight = 2
 [[menu.nav]]
 URL = "contact-us"
 name = "Contact"
-weight = 4
+weight = 3
 [params]
 author = "Ant Villa Dean"
 custom_css = ["css/custom.css"]
-description = "Filipino Street Food & Catering"
+description = "Pan Asian Street Food & Catering"
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
 googleAnalitycsID = "UA-132764638-1"
 home = "Home"
@@ -32,7 +32,7 @@ btnText = "Takeaway Price and Menu"
 btnURL = "#takeaway"
 content = "During these strange times"
 enable = true
-heading = ""
+heading = "TEst"
 image = "images/logoText.png"
 [params.counter]
 bgImage = "images/backgrounds/wood1.jpg"
