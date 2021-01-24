@@ -14,5 +14,9 @@ fields:
 - type: textarea
   name: description
   label: description
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 pages:
 - data/about2.yml
