@@ -7,37 +7,37 @@ fields:
   label: enable
 - type: text
   name: heading
-  label: heading
+  label: Header
 - type: text
   name: headingSpan
-  label: headingSpan
+  label: Subheading
 - type: text
   name: title1
-  label: title1
+  label: Section 1 Title
 - type: textarea
   name: content1
-  label: content1
+  label: Section 1 Copy
 - type: file
   name: image1
-  label: image1
+  label: Section 1 Image
 - type: text
   name: url1
-  label: url1
+  label: Section 1 URL
 - type: text
   name: urlText1
-  label: urlText1
+  label: Section 1 URL Text
 - type: text
   name: title2
-  label: title2
+  label: Section 2 Title
 - type: text
   name: content2
-  label: content2
+  label: Section 2 Copy
 - type: file
   name: image2
-  label: image2
+  label: Section 2 Image
 - type: text
   name: url2
-  label: url2
+  label: Section 2 URL
 - type: text
   name: urlText2
-  label: urlText2
+  label: Section 2 URL Text
