@@ -18,7 +18,7 @@
                 <h2 class="title">{{ with .Site.Data.atHome.title1 }} {{ . }}  {{ end }}</h2>
                 <p>{{ with .Site.Data.atHome.content1 | markdownify }} {{ . }}  {{ end }}</p>
                 <img class="img-fluid" src="{{ .Site.Data.atHome.image1 | absURL }}" alt="image">
-                <a href="{{ .Site.Data.atHome.url | absURL  }}" class="btn btn-transparent fold2">{{ with .Site.Data.atHome.urlText1 }} {{ . }} {{end}}</a>
+                <a href="{{ .Site.Data.atHome.url1 | absURL  }}" class="btn btn-transparent fold2">{{ with .Site.Data.atHome.urlText1 }} {{ . }} {{end}}</a>
             </div>
             <div class="col-lg-6 content text-center">
                 <h2 class="title">{{ with .Site.Data.atHome.title2 }} {{ . }}  {{ end }}</h2>
