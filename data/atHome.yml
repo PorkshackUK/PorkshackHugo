@@ -3,12 +3,15 @@ enable: true
 heading: Takeaway and Delivery
 headingSpan: Copy something
 title1: Title
-content1: Test Try The Pork Shack at Home Kits Try The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at Home Kits
-image1: 'https://res.cloudinary.com/the-pork-shack/image/upload/v1564694798/PorkShack_ljmmyk.jpg'
-url1: "https://photos.google.com/"
+content1: Test Try The Pork Shack at Home Kits Try The Pork Shack at Home KitsTry
+  The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at
+  Home KitsTry The Pork Shack at Home KitsTry The Pork Shack at Home KitsTry The Pork
+  Shack at Home Kits
+image1: https://res.cloudinary.com/the-pork-shack/image/upload/v1564694798/PorkShack_ljmmyk.jpg
+url1: https://photos.google.com/
 urlText1: URL Text
 title2: At Home Kits
 content2: Try The Pork Shack at Home Kits
-image2: 'https://res.cloudinary.com/the-pork-shack/image/upload/v1564694798/PorkShack_ljmmyk.jpg'
-url2: "https://photos.google.com/"
+image2: https://res.cloudinary.com/the-pork-shack/image/upload/v1564694798/PorkShack_ljmmyk.jpg
+url2: https://test.com/
 urlText2: URL Text
