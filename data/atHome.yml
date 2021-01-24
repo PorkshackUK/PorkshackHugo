@@ -3,8 +3,8 @@ enable: true
 heading: Takeaway and Delivery
 headingSpan: ''
 title1: Pan Asian Street Food Take Away
-content1: |-
-  Due to the pandemic in 2020 we had to quickly adapt in order for our business to succeed, we turned our event catering service to a take away delivery service, at the start of the lock down we were able to run from our car park from our catering trailer. We rejigged our menu a little to make sure it worked better as a take away and boom!
+content1:
+ " Due to the pandemic in 2020 we had to quickly adapt in order for our business to succeed, we turned our event catering service to a take away delivery service, at the start of the lock down we were able to run from our car park from our catering trailer. We rejigged our menu a little to make sure it worked better as a take away and boom!
 
   We couldn’t believe how successful it was the positive comments we received from customers.
 
@@ -12,7 +12,7 @@ content1: |-
 
   You can place your orders on our ordering website now, in lock down we are offering delivery within 5 miles.
 
-  We are also making sure we are Covid safe and giving everyone collection times to arrive to pick up your order. Please do come at your allotted time when you collect.
+  We are also making sure we are Covid safe and giving everyone collection times to arrive to pick up your order. Please do come at your allotted time when you collect."
 image1: https://res.cloudinary.com/the-pork-shack/image/upload/v1611487441/Picture_selection_2101221_qxmipx.png
 url1: https://theporkshack.tillex.co.uk/app?vrp=18
 urlText1: Click here to order now
