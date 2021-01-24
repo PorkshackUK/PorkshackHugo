@@ -18,7 +18,7 @@ fields:
   name: content1
   label: Section 1 Copy
   config:
-    wysiwyg: true
+    wysiwyg: false
     schema:
       format: markdown
 - type: file
