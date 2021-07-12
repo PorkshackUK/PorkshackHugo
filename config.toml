@@ -6,17 +6,17 @@ summaryLength = 10
 theme = "meghna-hugo"
 title = "The Pork Shack"
 [[menu.nav]]
-URL = "about"
-name = "About Us"
-weight = 1
+URL = "contact-us"
+name = "Contact"
+weight = 3
 [[menu.nav]]
 URL = "takeaway"
 name = "Takeaway"
 weight = 2
 [[menu.nav]]
-URL = "contact-us"
-name = "Contact"
-weight = 3
+URL = "about"
+name = "About Us"
+weight = 1
 [params]
 author = "Ant Villa Dean"
 custom_css = ["css/custom.css"]
